@@ -1,3 +1,4 @@
 dependencies:
   - python=3.10
   - emsarray~=0.1.0
+  - dask~=2022.7.0
