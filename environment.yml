@@ -2,12 +2,12 @@ channels:
   - conda-forge
 
 dependencies:
-  - jupyterlab~=3.6.0
-  - python~=3.10
-  - numpy~=1.23.0
-  - emsarray~=0.4.0
-  - dask~=2022.7.0
+  - jupyterlab
   - ipympl
-  - bokeh~=3.1.1
   - jupyter_bokeh
+
+  - emsarray ~=0.6.1
+  - numpy ~=1.26.0
+  - xarray ~=2023.09
+  - bokeh ~=3.1.1
   - ffmpeg
