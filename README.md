@@ -14,6 +14,10 @@ This notebook shows the basics of plotting datasets and variables using emsarray
 This notebook shows how to clip a dataset to a region,
 to extract a geographic subset of your data.
 
+### `transect.ipynb`
+
+This notebook shows how to plot a vertical transect through a dataset.
+
 ### `animation.ipynb`
 
 This notebook demonstrates some simple animations that emsarray can generate.
