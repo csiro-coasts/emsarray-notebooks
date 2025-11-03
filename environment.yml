@@ -13,3 +13,4 @@ dependencies:
   - bokeh ~=3.6
   - netCDF4 ~=1.7
   - ffmpeg
+  - scipy
