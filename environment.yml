@@ -6,10 +6,10 @@ dependencies:
   - ipympl
   - jupyter_bokeh
 
-  - python ~=3.13
-  - emsarray ~=0.9
+  - python ~=3.14
+  - emsarray ~=0.10
   - numpy ~=2.0
-  - xarray ~=2025.01
+  - xarray >=2025.01
   - bokeh ~=3.6
   - netCDF4 ~=1.7
   - ffmpeg
